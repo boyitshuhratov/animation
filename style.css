@@ -1,0 +1,25 @@
+
+.box {
+    width: 15%;
+    height: 150px;
+    background-color:yellowgreen;
+}
+body {
+    padding: 70px 90px;
+}
+
+
+.box:hover {
+    width: 700px;
+    transition: 2s;
+}
+
+
+
+
+
+
+
+
+ 
+
